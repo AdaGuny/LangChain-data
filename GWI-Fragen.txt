@@ -1,333 +1,340 @@
-Themen für den schriftlichen Test
+Topics for the written test
 
-Überblick und Genese 
+Overview and genesis 
 
-• Begriffe: Produktion, Logistik, Verkehr 
+- Terms: Production, logistics, transport 
 
-Produktion: Herstellung von Gütern und Dienstleistungen.
-Logistik: Effiziente Organisation des Material- und Warenflusses.
-Verkehr: Bewegung von Personen, Gütern und Informationen von einem Ort zum anderen.
+Production: Manufacturing of goods and services.
+Logistics: Efficient organisation of the flow of materials and goods.
+Transport: Movement of people, goods and information from one place to another.
 
-• Besonderheiten des Güterverkehrs im vgl. zu Personenverkehr 
+- Special features of freight transport compared to passenger transport 
 
--Akteure Optimierungskriterium 
+-Actors Optimisation criterion 
 -Constraints 
--Individuelles Planungsproblem 
--Individuelle Bewegungsmuster 
--Kommunikation zwischen Entscheidern
+-Individual planning problem 
+-Individual movement patterns 
+-Communication between decision-makers
 
-• Struktur des Wirtschaftsverkehrs (Schema) 
-
-
-• Input/Output-Analyse 
-• Was wird in monetären Input-Output-Tabellen (MIOT) dargestellt? Struktur, Inhalte, Einheiten 
-
-Monetäre Input-Output-Tabellen bestehen aus einer Matrix, die die monetären Flüsse zwischen den verschiedenen Sektoren der Wirtschaft zeigt. Die Spalten repräsentieren die Sektoren oder Branchen, und die Zeilen repräsentieren den Ursprung und das Ziel der monetären Transaktionen. Die Einträge in der Matrix zeigen den monetären Wert der Transaktionen zwischen den Sektoren. 
-
-Typischerweise enthalten MIOTs folgende Informationen:
--Produktionszahlen
--Endnachfrage
--Intermediäre Ausgaben
--Einkommen
-Die Einheiten in einer MIOT können je nach Land und Quelle variieren. Die Produktionszahlen können beispielsweise in physischen Einheiten wie Tonnen oder Stückzahl angegeben werden, während die monetären Flüsse in Währungseinheiten wie Dollar oder Euro ausgedrückt werden.
-
-• Wie lassen sich MIOT auch für Teilbereiche einer Volkswirtschaft nutzen?
-
-Indem man die Daten im Zusammenhang mit den gewünschten Teilbereichen extrahiert, können Analysten die Wechselbeziehungen, Verknüpfungen und Auswirkungen innerhalb dieser spezifischen Sektoren untersuchen. z.B Regionalanalyse, Sektoranalyse, Umweltanalyse, Investitionsanalyse
-
-• Bonus: Was drücken Inputkoeffizienten aus? Wofür benötigt man die Leontief-Inverse?
-
-Inputkoeffizienten geben an, wie viel Input ein Sektor benötigt, um eine Einheit Output zu produzieren. Sie zeigen die Abhängigkeit eines Sektors von Vorleistungen aus anderen Sektoren. Die Leontief-Inverse wird verwendet, um die Auswirkungen einer Nachfrageänderung auf die gesamte Volkswirtschaft zu berechnen und die indirekten Effekte auf Produktion, Einkommen und Beschäftigung zu analysieren.
-
-• Messgrößen im Güterverkehr und deren Aussagekraft
-
-Mengenmasse:
-Gewicht (z.B. [t])
-Volumen (z.B. [m3 ]) 
-Warenwert (z.B. EUR) 
-Kleinladungsträger (z.B. Gitterboxen, Paletten)
-Lademeter
-Großladungsträger (Container, Wechselbrücken, 20-Fuß Containeräquivalent) 
-Frachtaufträge (Beachte: Subcontracting, Transportketten) 
-Transportlosgröße/Sendungsgröße: Menge von Gütern, die zusammen an einer Quelle abgeholt und gemeinsam an einer Senke abgeliefert werden 
-Fahrten (mit und ohne Ladung)
-Touren (geschlossene Fahrtenketten)
-
-Leistungsmasse:
-tkm(Verkehrsleistung) —> Im Güterverkehr wird die Verkehrsleistung in Tonnenkilometer (tkm) gemessen: die zurückgelegten Kilometer multipliziert mit der beförderten Gütermenge in Tonnen.
-Paletten-km (für einzelbetriebliche Analysen)
-Fahrzeug-km(Fahrleistung)
-
-• Was sind die wichtigsten Gütergruppen nach Leistung bzw. Tonnage? 
-
--Mineralische Erzeugnisse: Rohstoffe wie Kohle, Öl, Erdgas, Erze und Metalle
--Chemische Erzeugnisse: Chemische Produkte wie Kunststoffe, Düngemittel, Pestizide, Farbstoffe und Pharmazeutika 
--Nahrungsmittel und landwirtschaftliche Produkte: Getreide, Fleisch, Milchprodukte, Obst, Gemüse und andere landwirtschaftliche Erzeugnisse. 
--Maschinen und Ausrüstungen: Maschinen, Werkzeuge, Fahrzeuge und andere Ausrüstungen
--Elektronik und Kommunikationstechnologie: Computer, Telekommunikationsgeräte, Unterhaltungselektronik, Halbleiter und andere elektronische Komponenten. 
--Fahrzeuge und Transportmittel: Dies beinhaltet Personenkraftwagen, Lastwagen, Schiffe, Flugzeuge und Schienenfahrzeuge. 
--Bau- und Baumaterialien: Baustoffe wie Zement, Stahl, Holz, Glas und andere Baumaterialien
-
-Wie sieht ungefähr der Modal Split in Deutschland nach Aufkommen und Leistung aus?
+- Structure of economic transport (scheme) 
 
 
+- Input/Output Analysis 
+- What is shown in monetary input-output tables (MIOT)? Structure, contents, units 
 
-Der Straßenverkehr dominiert jedoch weiterhin den Modal Split in Deutschland, gefolgt vom Schienenverkehr, während die Anteile der anderen Verkehrsträger vergleichsweise geringer sind.
+Monetary input-output tables consist of a matrix showing the monetary flows between the different sectors of the economy. The columns represent the sectors or industries and the rows represent the origin and destination of the monetary transactions. The entries in the matrix show the monetary value of the transactions between the sectors. 
 
-• Welche Gutarten sind schienen-affin, welche Binnenschiffs-affin, welche Güter werden fast
-ausschließlich mit dem Lkw transportiert?
+Typically, MIOTs contain the following information:
+-Production figures
+-final demand
+-Intermediate expenditure
+-Income
+The units in a MIOT can vary by country and source. For example, production figures can be expressed in physical units such as tonnes or pieces, while monetary flows are expressed in currency units such as dollars or euros.
 
-Schienen-affine Güter:
--Schüttgüter wie Kohle, Erz, Kies und Sand
--Massengüter wie Getreide, Zement, Düngemittel und Chemikalien
--Container für den intermodalen Transport (Kombination von Schiene und Straße)
+- How can MIOT also be used for sub-sectors of an economy?
 
-Binnenschiffs-affine Güter:
--Schwergewichtige Güter wie Stahl, Eisen und Schrott
--Flüssiggüter wie Erdöl, Erdgas und Chemikalien
--Container für den Binnenwasserstraßentransport
+By extracting the data in the context of the desired sub-sectors, analysts can examine the interrelationships, linkages and impacts within those specific sectors. e.g. regional analysis, sector analysis, environmental analysis, investment analysis
 
-Güter, die fast ausschließlich mit dem Lkw transportiert werden:
--Frischwaren wie Obst, Gemüse und Milchprodukte, die schnell und direkt zu den Verbrauchern gelangen müssen
--Expresssendungen und Kurierdienste, die eine schnelle Lieferung erfordern
--Lieferungen an entlegene oder schwer zugängliche Gebiete, in denen der Lkwverkehr die praktischste Option ist
+- Bonus: What do input coefficients express? What do you need the Leontief inverse for?
+
+Input coefficients indicate how much input a sector needs to produce one unit of output. They show the dependence of a sector on inputs from other sectors. The Leontief inverse is used to calculate the impact of a change in demand on the entire economy and to analyse the indirect effects on production, income and employment.
+
+- Measures of freight transport and their significance
+
+Quantity mass:
+Weight (e.g. [t])
+Volume (e.g. [m3 ]) 
+Value of goods (e.g. EUR) 
+Small load carriers (e.g. box pallets, pallets)
+Loading metre
+Large load carriers (containers, swap bodies, 20-foot container equivalent) 
+Freight orders (note: subcontracting, transport chains) 
+Transport lot size/shipment size: quantity of goods collected together at a source and delivered together at a sink 
+Journeys (with and without load)
+Tours (closed chains of journeys)
+
+Performance measure:
+tkm(transport performance) -> In freight transport, transport performance is measured in tonne-kilometres (tkm): the kilometres travelled multiplied by the quantity of goods transported in tonnes.
+Pallet-km (for individual company analyses)
+Vehicle-km(mileage)
+
+- What are the main groups of goods by output or tonnage? 
+
+-Mineral products: Raw materials such as coal, oil, natural gas, ores and metals.
+-Chemical products: Chemical products such as plastics, fertilisers, pesticides, dyes and pharmaceuticals 
+-Food and agricultural products: Grains, meat, dairy products, fruits, vegetables and other agricultural products. 
+-Machinery and equipment: Machinery, tools, vehicles and other equipment.
+-Electronics and communications technology: computers, telecommunications equipment, consumer electronics, semiconductors and other electronic components. 
+-Vehicles and transport equipment: This includes passenger cars, trucks, ships, aircraft and rail vehicles. 
+-Construction and building materials: Building materials such as cement, steel, wood, glass and other building materials.
+
+Approximately what does the modal split in Germany look like in terms of volume and performance?
 
 
 
+However, road transport continues to dominate the modal split in Germany, followed by rail transport, while the shares of the other modes are comparatively lower.
 
-• Zeichnen Sie qualitativ eine typische Entfernungsverteilungskurve (Prozent über Entfernung) für Straßengüterverkehr!
+- Which types of goods have an affinity for rail, which have an affinity for inland waterways, which goods are almost
+transported almost exclusively by truck?
 
-Die Entfernungsverteilungskurve zeigt die prozentuale Verteilung der Transporte über verschiedene Entfernungsintervalle. Auf der horizontalen Achse werden die Entfernungsintervalle dargestellt, während auf der vertikalen Achse der Prozentsatz der Transporte in jedem Intervall angegeben wird.
+Goods with an affinity for rail:
+-Bulk goods such as coal, ore, gravel and sand
+-bulk goods such as grain, cement, fertilisers and chemicals
+-containers for intermodal transport (combination of rail and road)
 
-Entfernungskategorie Prozentsatz des Straßengüterverkehrs
+Goods with affinity to inland waterways vessels:
+-Heavyweight goods such as steel, iron and scrap metal
+-Liquid goods such as crude oil, natural gas and chemicals
+-Containers for inland waterway transport
+
+Goods that are almost exclusively transported by truck:
+-Fresh goods such as fruit, vegetables and dairy products that need to reach consumers quickly and directly.
+-express shipments and courier services that require fast delivery.
+
+-Deliveries to remote or hard-to-reach areas where truck transport is the most practical option.
+
+
+
+
+- Draw qualitatively a typical distance distribution curve (percent over distance) for road freight transport!
+
+The distance distribution curve shows the percentage distribution of transports over different distance intervals. The horizontal axis shows the distance intervals, while the vertical axis shows the percentage of transports in each interval.
+
+Distance category Percentage of road freight transports
 0-50 km 40%
 50-100 km 30%
 100-200 km 15%
 200-500 km 10%
 500-1000 km 3%
-über 1000 km 2%
+over 1000 km 2%
 
-• Wie groß ist ungefähr der Anteil von ausländischen Lkw am grenzüberschreitenden Güterverkehr in Deutschland?
+- Approximately how large is the share of foreign trucks in cross-border freight traffic in Germany?
 
-In den Jahren 2021 und 2022 ist der Anteil ausländischer LKW auf deutschen Bundesfernstraßen bei ca. 42%.
+In 2021 and 2022, the share of foreign trucks on German federal trunk roads is approximately 42%.
 
-• Wie groß ist in etwa der Anteil der Ladungsfahrten an den Gesamtfahrten deutscher Lkw?
-Welche Abhängigkeit lässt sich beobachten (wichtige Einflussgröße auf den Leerfahrtenanteil)?
-Wie lässt sie sich erklären?
+- What is the approximate share of cargo journeys in total journeys by German HGVs?
+What dependency can be observed (important factor influencing the share of empty journeys)?
+How can it be explained?
 
-Basierend auf vorhandenen Daten und Schätzungen lag der Anteil der Ladungsfahrten im Allgemeinen bei etwa 60-70% der Gesamtfahrten deutscher Lkw. Dies bedeutet, dass etwa 30-40% der Fahrten ohne Fracht oder mit nur teilweiser Ladung durchgeführt wurden.
+Based on existing data and estimates, the share of cargo trips was generally around 60-70% of total trips by German trucks. This means that about 30-40% of the trips were made without cargo or with only partial cargo.
 
-Der Leerfahrtenanteil hängt von mehreren wichtigen Einflussgrößen ab:
--Nachfrage und Angebot
--Routenplanung und Logistikoptimierung
--Rückführungs- und Kooperationsmöglichkeiten
--Geografische Verteilung der Fracht
-Der Leerfahrtenanteil lässt sich auch durch andere Faktoren wie saisonale Schwankungen, verkehrsbedingte Verzögerungen, logistische Restriktionen oder die Verfügbarkeit von Ladungen beeinflussen.
-
-
-• Wie groß ist etwa der Auslastungsgrad (an der maximalen Nutzlast) deutscher Lkw? Welche Abhängigkeit lässt sich beobachten (wichtige Einflussgröße)? Wie lässt sie sich erklären?
-
-Der durchschnittliche Auslastungsgrad deutscher Lkw ist bei etwa 50% bis 60%.
-
-Manche wichtige Einflussgröße auf den Auslastungsgrad von Lkw:
--die Nachfrage nach Transportdienstleistungen 
--der Angebot an Fracht 
--der Anzahl der verfügbaren Lkw 
-
-Es gibt mehrere Faktoren, die diese Nachfrage beeinflussen können:
--Wirtschaftliche Bedingungen
--Branchenspezifische Nachfrage
--Logistik- und Supply-Chain-Strategien
--Infrastruktur und Verkehr
--Umweltauflagen und Regelungen
-
-• Was sind wichtige Datenquellen für den Güterverkehr in Deutschland und Europa?
-
-Statistische Ämter
-Verkehrsverbände und -organisationen
-Verkehrsinfrastrukturbetreiber
-Unternehmensdaten
-Forschungsinstitute und Universitäten
-Telematik- und Überwachungssysteme
-
-Akteure und Netzwerke
-
-• Nennen Sie Aufgaben der Logistik. Was besagt die 7-R Regel der Logistik?
-
--das richtige Produkt
--zur richtigen Zeit 
--am richtigen Ort
--in der richtigen Menge
--in der richtigen Qualität 
--zu den richtigen Kosten
--zum richtigen Kunden zu bringen
-
-• Nennen Sie Funktionen der Logistik.
-
-Auftrags- und Bestandsverwaltung
-Lagerhaltung und Kommissionierung (Picking) 
-Transport und Umschlag
-Betrieb eines Informationssystems
-
-• Skizzieren Sie beispielhaft folgende Tranportnetzwerke: Einzelwagennetzwerk, KV, Stückgut und Teilladungen.
-
-Einzelwagennetzwerk: bezieht sich auf ein Transportsystem, bei dem einzelne Güterwaggons unabhängig voneinander zwischen verschiedenen Standorten oder Knotenpunkten transportiert werden. Im Gegensatz zu einem Ganzzugverkehrssystem, bei dem mehrere Waggons als zusammenhängende Einheit transportiert werden, werden im Einzelwagennetzwerk die Güter individuell befördert.
-
-KV: Das Ziel des kombinierten Verkehrs ist es, die Vorteile der einzelnen Verkehrsträger entlang der Transportkette zu nutzen. Beispielsweise können für den Transport über lange Strecken die Bahn oder das Schiff genutzt werden, während für die letzte Verteilungsetappe die Straße zum Einsatz kommt.
-
-Stückgut: bezieht sich auf den Transport von Gütern, die in einzelnen Stücken oder Packstücken verpackt sind, im Gegensatz zu Massengut oder Komplettladungen.
+The share of empty trips depends on several important influencing variables:
+-demand and supply
+-Route planning and logistics optimisation
+-Return and cooperation opportunities
+-Geographical distribution of freight
+The empty run share can also be influenced by other factors such as seasonal fluctuations, traffic-related delays, logistical restrictions or the availability of loads.
 
 
-Teilladungsnetzwerk: Es handelt sich um ein Netzwerk von Spediteuren, Logistikunternehmen und Frachtführern, die ihre Kapazitäten bündeln, um Teilladungen zu transportieren.
+- For example, what is the degree of utilisation (of the maximum payload) of German trucks? What dependency can be observed (important influencing variable)? How can it be explained?
+
+The average load factor of German trucks is about 50% to 60%.
+
+Some important factors influencing the degree of utilisation of trucks:
+-the demand for transport services 
+-the supply of freight 
+-the number of available trucks 
+
+There are several factors that can influence this demand:
+-economic conditions
+-industry-specific demand
+-Logistics and supply chain strategies
+-Infrastructure and transport
+-Environmental requirements and regulations
+
+- What are important data sources for freight transport in Germany and Europe?
+
+Statistical offices
+Transport associations and organisations
+Transport infrastructure operators
+Company data
+Research institutes and universities
+Telematics and monitoring systems
+
+Actors and networks
+
+- Name the tasks of logistics. What does the 7-R rule of logistics say?
+
+-the right product
+-at the right time 
+-at the right place
+-in the right quantity
+-in the right quality 
+-at the right cost
+-to the right customer
+
+- Name functions of logistics.
+
+Order and inventory management
+Warehousing and picking 
+Transport and handling
+Operation of an information system
+
+- Outline the following transport networks as examples: single wagon network, CT, general cargo and part loads.
+
+Single wagon network: refers to a transport system in which individual freight wagons are transported independently between different locations or hubs. In contrast to a block train transport system, where several wagons are transported as a coherent unit, in the single wagon network the goods are transported individually.
+
+CT: The aim of combined transport is to exploit the advantages of the individual modes of transport along the transport chain. For example, rail or ship can be used for transport over long distances, while road is used for the final distribution stage.
+
+General cargo: refers to the transport of goods packed in individual pieces or packages, as opposed to bulk or full loads.
+
+
+Partial load network: it is a network of freight forwarders, logistics companies and carriers that pool their capacities to transport partial loads.
 
         
-        Ad-hoc Strukturen                vs.                   Verbund
+        Ad-hoc structures vs. network
 
-• Welche Tourtypen können unterschieden werden?
+- Which tour types can be distinguished?
 
-• Welche besonderen Anforderungen stellen Logistiknetzwerke im Automobilbau und im Handel?
+- What are the special requirements of logistics networks in the automotive and retail sectors?
 
-im Automobilbau
-▪ Just in Time – Produktion und Lieferung in Menge und Zeit nach Kundenbedarf 
-                       – Kürzere Durchlaufzeiten und geringere Kapitalbindung 
-                       – ABER: hoher Abstimmungsbedarf entlang der Lieferkette 
-▪ Just in Sequence – Erweiterung von JIT 
-                              – Anlieferung in der richtigen Reihenfolge 
-▪ Anforderung an Logistiknetzwerke 
-▪ Effekt: Ansiedlung von Zulieferunternehmen in unmittelbarer Nähe zum Automobilproduzenten
+in the automotive industry
+▪ Just in time - production and delivery in quantity and time according to customer requirements 
+                       - Shorter lead times and lower capital commitment 
+                       - BUT: high need for coordination along the supply chain 
+▪ Just in Sequence - extension of JIT 
+                              - Delivery in the right order 
+▪ Demand on logistics networks 
+▪ Effect: settlement of supplier companies in the immediate vicinity of car manufacturers
  
-im Handel
--Hohe Flexibilität und Anpassungsfähigkeit: schnell auf die Veränderungen zu reagieren und Produkte effizient von den Lieferanten zu den Verkaufsstellen zu transportieren.
--Omnichannel-Vertrieb
--Retourenmanagement: Im Handel spielen Rücksendungen und Retouren eine große Rolle. 
+in the trade
+-High flexibility
 
-—-------
-im Automobilbau:
-Just-in-Time (JIT) und Just-in-Sequence (JIS): Die Automobilindustrie erfordert häufig eine präzise Lieferung von Komponenten und Bauteilen an die Montagelinie. JIT- und JIS-Prinzipien bedeuten, dass die Materialien genau zum richtigen Zeitpunkt und in der richtigen Reihenfolge bereitgestellt werden müssen, um die Produktionsabläufe nicht zu unterbrechen.
-Hohe Lieferzuverlässigkeit: Die Automobilherstellung erfordert eine hohe Zuverlässigkeit bei der Lieferung von Materialien und Komponenten. Verspätungen oder Ausfälle können zu erheblichen Produktionsverzögerungen und -kosten führen.
-Komplexes Teilemanagement: Der Automobilbau umfasst eine große Anzahl von Bauteilen und Komponenten, die von verschiedenen Lieferanten stammen. Das Teilemanagement erfordert eine effektive Verfolgung, Überwachung und Koordination der Materialflüsse, um sicherzustellen, dass die richtigen Teile zum richtigen Zeitpunkt am richtigen Ort sind.
+▪ Requirement for logistics networks 
+▪ Effect: settlement of supplier companies in the immediate vicinity of the car manufacturer
+ 
+in the trade
+-High flexibility and adaptability: to react quickly to changes and transport products efficiently from suppliers to points of sale.
+-Omnichannel distribution
+-Returns management: returns and returns play a major role in retail. 
 
-im Handel:
-Hohe Lagerbestände und Umschlaggeschwindigkeit: Der Handel erfordert häufig eine große Auswahl an Produkten und eine hohe Verfügbarkeit, um die Kundennachfrage zu erfüllen. Dies kann zu hohen Lagerbeständen führen, die effektiv verwaltet und kontrolliert werden müssen, um Verluste zu minimieren und eine schnelle Umschlaggeschwindigkeit zu gewährleisten.
-Omnichannel-Vertrieb: Im Handel wird zunehmend auf Omnichannel-Strategien gesetzt, bei denen Produkte über verschiedene Vertriebskanäle wie stationäre Geschäfte, Online-Shops und Marktplätze angeboten werden. Dies erfordert ein gut integriertes Logistiknetzwerk, um eine nahtlose Erfüllung der Bestellungen und eine effektive Bestandsverwaltung in allen Kanälen zu gewährleisten.
-Retourenmanagement: Im E-Commerce und im Handel spielt das Retourenmanagement eine wichtige Rolle. Es ist wichtig, einen effizienten Prozess für die Rücknahme, Prüfung, Wiederaufbereitung und Weiterverwendung von zurückgegebenen Produkten zu haben, um Kosten zu minimieren und den Kundenservice zu verbessern.
-Kundenspezifische Verpackung und Etikettierung: Im Einzelhandel können spezielle Anforderungen an die Verpackung und Etikettierung von Produkten bestehen, wie z.B. kundenspezifische Verpackungen, Barcodes oder Sicherheitsetiketten. Die Logistiknetzwerke müssen in der Lage sein, diese Anforderungen zu erfüllen und die Produkte entsprechend zu verpacken und zu kennzeichnen.
-Diese spezifischen Anforderungen erfordern eine enge Zusammenarbeit zwischen Herstellern, Lieferanten, Logistikdienstleistern und Einzelhändlern, um effiziente 
-Logistiknetzwerke
+--------
+in the automotive industry:
+Just-in-Time (JIT) and Just-in-Sequence (JIS): the automotive industry often requires precise delivery of components and parts to the assembly line. JIT and JIS principles mean that materials must be provided at exactly the right time and in the right sequence so as not to interrupt production processes.
+High delivery reliability: Automotive manufacturing requires high reliability in the delivery of materials and components. Delays or failures can lead to significant production delays and costs.
+Complex parts management: Automotive manufacturing involves a large number of parts and components sourced from different suppliers. Parts management requires effective tracking, monitoring and coordination of material flows to ensure that the right parts are in the right place at the right time.
 
-• Erläutern Sie die Begriffe Kontraktlogistik, Just-in-Time und Just-in-Sequence.
+In retail:
+High inventory levels and turnover rates: Retail often requires a wide range of products and high availability to meet customer demand. This can lead to high inventory levels that need to be effectively managed and controlled to minimise losses and ensure fast turnaround.
+Omnichannel distribution: Retailers are increasingly adopting omnichannel strategies where products are offered through different distribution channels such as brick-and-mortar shops, online shops and marketplaces. This requires a well-integrated logistics network to ensure seamless fulfilment of orders and effective inventory management across all channels.
+Returns management: Returns management plays an important role in e-commerce and retail. It is important to have an efficient process for the return, inspection, reprocessing and reuse of returned products to minimise costs and improve customer service.
+Customised packaging and labelling: In retail, there may be special requirements for product packaging and labelling, such as customised packaging, barcodes or security labels. Logistics networks must be able to meet these requirements and package and label products accordingly.
+These specific requirements demand close cooperation between manufacturers, suppliers, logistics service providers and retailers in order to create efficient 
+logistics networks
 
-Kontraktlogistik
-– Langfristige Übernahme komplexer logistischer Dienstleistungspakete durch Logistik-Dienstleister (Speditionen, Paketdienste) 
-– Kombination mehrerer Dienstleistungen (Transport, Lagerung, Umschlag und Konfektionierung, auch einfache Produktions- oder Montagetätigkeiten)
-– Dienstleister als Systemlieferant für Logistikleistungen (Gabler Wirtschaftslexikon)
+- Explain the terms contract logistics, just-in-time and just-in-sequence.
 
-Just in Time 
-– Produktion und Lieferung in Menge und Zeit nach Kundenbedarf
-– Kürzere Durchlaufzeiten und geringere Kapitalbindung 
-– ABER: hoher Abstimmungsbedarf entlang der Lieferkette
+Contract logistics
+- Long-term takeover of complex logistical service packages by logistics service providers (freight forwarders, parcel services) 
+- Combination of several services (transport, storage, handling and packaging, also simple production or assembly activities)
+- Service provider as system supplier for logistics services (Gabler Wirtschaftslexikon)
+
+Just in time 
+- Production and delivery in quantity and time according to customer requirements
+- Shorter lead times and lower capital commitment 
+- BUT: high need for coordination along the supply chain
 
 Just in Sequence 
- – Erweiterung von JIT
- – Anlieferung in der richtigen Reihenfolge
-• Benennen Sie wichtige Märkte der Logistik und grenzen Sie diese gegeneinander ab.
+ - Extension of JIT
+ - Delivery in the right order
+- Name important markets in logistics and distinguish them from each other.
 
-Produktion und Handel 
-Logistik
+Production and trade 
+Logistics
 Transport
 
-▪ Art der Dienstleistung
- – Transport 
-– Logistik 
-– Kontraktlogistik 
-▪ Nachfrageseitig (Substitutionsbeziehungen)
-▪ Angebotsseitig (Technologie) 
-▪ Besonderheit im Verkehr: Räumliche Dimension 
-– Gebiete 
-– Relationen
+▪ Type of service
+ - Transport 
+- Logistics 
+- Contract logistics 
+▪ Demand-side (substitution relationships)
+Supply side (technology) 
+▪ Special feature in transport: Spatial dimension 
+- Areas 
+- Relations
 
-Märkte der Logistik: Massengut, Kontrakt, Terminal & Warehousing, KEP (Kurier-Express-Paket)
+Logistics markets: bulk, contract, terminal & warehousing, CEP (courier express parcel)
 
-Treiber und Trends
-• Grundzüge und Aussagen der wichtigen Handelsmodelle: Ricardo, Krugman/Core-Periphery,
+Drivers and trends
+- Main features and statements of the important trade models: Ricardo, Krugman/Core-Periphery,
 Economies-of-Scale.
 
 Ricardo: 
--Komparativen Kostenvorteil. 
--Die Grundannahme ist die Existenz unterschiedlicher Arbeitsproduktivitäten und daraus resultierender unterschiedlicher Opportunitätskosten. 
+-Comparative Cost Advantage. 
+-The basic assumption is the existence of different labour productivities and resulting different opportunity costs. 
 
-Core-Periphery Modell (Paul Krugman): 
--Kapital und Arbeitskräfte sind mobil.
--Die regionale Wirtschaftsleistung steigt überproportional zu den Inputs (economies of scale). 
+Core-Periphery Model (Paul Krugman): 
+-Capital and labour are mobile.
+-Regional economic output increases disproportionately to inputs (economies of scale). 
   
 Economies of scale:
--Bestimmte Regionen werden immer stärker.
--Andere Regionen erleiden einen Backwash-Effekt und werden auf Rohstoff-Produktion reduziert
+-Certain regions become stronger and stronger.
+-Other regions suffer a backwash effect and are reduced to commodity production.
 
-• Was drücken Indifferenz- und Transformationskurven aus?
+- What do indifference and transformation curves express?
 
-Indifferenzkurven drücken die Konsumpräferenzen eines Verbrauchers aus, indem sie alle Güterkombinationen darstellen, die ihm den gleichen Nutzen oder die gleiche Zufriedenheit bieten. Sie zeigen die Kompromisse auf, die ein Verbraucher bereit ist einzugehen, um zwischen verschiedenen Gütern zu wählen.
+Indifference curves express a consumer's consumption preferences by representing all combinations of goods that are available to him or her.
+ They show the trade-offs a consumer is willing to make in order to choose between different goods.
 
-Transformationskurven repräsentieren die Produktionsmöglichkeiten einer Volkswirtschaft, d.h. die verschiedenen Produktionskombinationen von zwei Gütern, die mit den gegebenen Ressourcen und der vorhandenen Technologie erreicht werden können.
-
-
-
-
-• Welche Vorteile bringen Verbesserungen im Gütertransport für Unternehmen und Staaten?
-
-Vorteile für Unternehmen:
--Effizienzsteigerung: kürzeren Lieferzeiten, schnelleren Reaktionszeiten auf Kundenanfragen
--Kostenreduktion: Reduzierung der Transportkosten, optimierte Routenplanung, bessere -Auslastung von Transportmitteln
--Erweiterter Marktzugang: neue Märkte erreichen, neue Absatzmöglichkeiten und Chancen
--Höhere Kundenzufriedenheit: Schnellere Lieferzeiten und zuverlässige Transportdienstleistungen, Stärkung von Kundenbindung
-
-Vorteile für Staaten:
--Wirtschaftswachstum: neue Arbeitsplätze, Steigerung von BIP
--Stärkung von Wettbewerbsfähigkeit
--Bessere regionale Entwicklung
--Bessere entwickelte Infrastruktur und Logistikdienstleistungen
-
-• Was versteht man unter Globalisierung und welche Folgen hatte sie für den interkontinentalen
-und nationalen Güterverkehr?
-
-Globalisierung = Internationale Integration von Wirtschaft und Politik.
-Folgen: Fragmentierung der Wertschöpfungsketten 
-s•  Standardisierte Produktionsprozesse 
-• Fragmentierung der Wertschöpfungsketten 
-• Kostenreduktion durch Outsourcing
-Aktuell: Risiken, Kapitalverlust, Abhängigkeit von Ausland, Depolarisation
-
-• Welche weiteren Trends – neben der Gobalisierung – hatten in den letzten Jahrzehnten
-Auswirkungen auf den Güterverkehr?
-
-- Technischer Fortschritt: Durch technischen Fortschritt kann entweder eine gleiche Produktionsmenge (Output) mit einem geringeren Einsatz an Arbeit oder Produktionsmitteln (Inputs) oder eine höhere Menge mit dem gleichen Einsatz an Produktionsmitteln und Arbeit erstellt werden.
-
-- Strukturwandel der Wirtschaft: Die Veränderungen der Primärer-, Sekundärer- und Tertiärer-Sektor-Anteil an der Bruttowertschöpfung
-
-• Erläutern Sie die Gründe für Outsourcing in der Industrie und die Folgen für den Güterverkehr.
-
-Günstigere Lohnkosten (z.B. Ungarn, Polen, China, Arbeitsvertrag Logistik…) 
-Konzentration auf Kernkompetenzen 
-Akkumulation von Kompetenzen 
-Realisierung von Skalen- und Verbundvorteilen bei Lieferanten (Bsp. Bosch) 
-Ersatz vom Kapitalkosten durch variable Faktorkosten
-Gewinn an Flexibilität
-Erhöhung der (Eigen-)Kapitalrendite
-Flexible Nachschübe (räumlich, zeitlich, Mengen) statt Lagerhaltung  
-Schnittstellen und Digitalisierung 
-
-Ek bilgi: Offshoring“ bezeichnet die Verlagerung von Aufgaben des Unternehmens ins Ausland. Es handelt sich also um eine geographische Verlagerung, während Outsourcing die organisatorische Verlagerung betrifft.
+Transformation curves represent the production possibilities of an economy, i.e. the different production combinations of two goods that can be achieved with the given resources and technology.
 
 
-• Welche Auswirkungen haben Transportverbesserungen (z.B. Bau von Infrastruktur) auf Logistikund Produktionsstrukturen sowie dann auf den Güterverkehr?
 
-Verbesserung der Lieferzeiten
-Senkung der Transportkosten
-Verbesserung der Zuverlässigkeit
-Erweiterung des Marktzugangs
-Standortvorteile: Transportverbesserungen können die Attraktivität bestimmter Standorte erhöhen. 
-Förderung des Handels: Produkte über große Entfernungen zu transportieren und auf internationale Lieferketten zugreifen.
 
+- What are the benefits of improvements in freight transport for companies and countries?
+
+Benefits for companies:
+-Increased efficiency: shorter delivery times, faster response times to customer requests.
+-Cost reduction: reduction of transport costs, optimised route planning, better -utilisation of transport means
+-Expanded market access: reach new markets, new sales possibilities and opportunities
+-Increased customer satisfaction: faster delivery times and reliable transport services, strengthening of customer loyalty
+
+Benefits for countries:
+-Economic growth: new jobs, increase in GDP.
+-Strengthening competitiveness
+-Better regional development
+-Better developed infrastructure and logistics services
+
+- What is meant by globalisation and what consequences has it had for intercontinental
+and national freight transport?
+
+Globalisation = international integration of economy and politics.
+Consequences: Fragmentation of value chains 
+s- Standardised production processes 
+- Fragmentation of value chains 
+- Cost reduction through outsourcing
+Current: risks, loss of capital, dependence on foreign countries, depolarisation
+
+- What other trends - besides globalisation - have had an impact on freight transport in recent decades?
+had an impact on freight transport in recent decades?
+
+- Technical progress: Through technical progress, either the same quantity of production (output) can be produced with a lower input of labour or means of production (inputs) or a higher quantity can be produced with the same input of means of production and labour.
+
+- Structural change in the economy: The changes in the primary, secondary and tertiary sector share of gross value added.
+
+- Explain the reasons for outsourcing in industry and the consequences for freight transport.
+
+Cheaper labour costs (e.g. Hungary, Poland, China, labour contract logistics...) 
+Concentration on core competences 
+Accumulation of competences 
+Realisation of economies of scale and scope with suppliers (e.g. Bosch) 
+Replacement of capital costs by variable factor costs
+Gain in flexibility
+Increase in (own) capital return
+Flexible replenishment (in terms of space, time, quantity) instead of warehousing  
+Interfaces and digitalisation 
+
+Ek bilgi: "Offshoring" refers to the relocation of a company's tasks abroad. It is therefore a geographical relocation, while outsourcing concerns organisational relocation.
+
+
+- What effects do transport improvements (e.g. construction of infrastructure) have on logistics and production structures and then on freight transport?
+
+Improvement of delivery times
+Reduction of transport costs
+Improving reliability
+Expansion of market access
+Locational advantages: Transport improvements can increase the attractiveness of certain locations. 
+Promoting trade: transporting products over long distances and accessing international supply chains.
 
 
 
