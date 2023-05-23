@@ -1,0 +1,333 @@
+Themen für den schriftlichen Test
+
+Überblick und Genese 
+
+• Begriffe: Produktion, Logistik, Verkehr 
+
+Produktion: Herstellung von Gütern und Dienstleistungen.
+Logistik: Effiziente Organisation des Material- und Warenflusses.
+Verkehr: Bewegung von Personen, Gütern und Informationen von einem Ort zum anderen.
+
+• Besonderheiten des Güterverkehrs im vgl. zu Personenverkehr 
+
+-Akteure Optimierungskriterium 
+-Constraints 
+-Individuelles Planungsproblem 
+-Individuelle Bewegungsmuster 
+-Kommunikation zwischen Entscheidern
+
+• Struktur des Wirtschaftsverkehrs (Schema) 
+
+
+• Input/Output-Analyse 
+• Was wird in monetären Input-Output-Tabellen (MIOT) dargestellt? Struktur, Inhalte, Einheiten 
+
+Monetäre Input-Output-Tabellen bestehen aus einer Matrix, die die monetären Flüsse zwischen den verschiedenen Sektoren der Wirtschaft zeigt. Die Spalten repräsentieren die Sektoren oder Branchen, und die Zeilen repräsentieren den Ursprung und das Ziel der monetären Transaktionen. Die Einträge in der Matrix zeigen den monetären Wert der Transaktionen zwischen den Sektoren. 
+
+Typischerweise enthalten MIOTs folgende Informationen:
+-Produktionszahlen
+-Endnachfrage
+-Intermediäre Ausgaben
+-Einkommen
+Die Einheiten in einer MIOT können je nach Land und Quelle variieren. Die Produktionszahlen können beispielsweise in physischen Einheiten wie Tonnen oder Stückzahl angegeben werden, während die monetären Flüsse in Währungseinheiten wie Dollar oder Euro ausgedrückt werden.
+
+• Wie lassen sich MIOT auch für Teilbereiche einer Volkswirtschaft nutzen?
+
+Indem man die Daten im Zusammenhang mit den gewünschten Teilbereichen extrahiert, können Analysten die Wechselbeziehungen, Verknüpfungen und Auswirkungen innerhalb dieser spezifischen Sektoren untersuchen. z.B Regionalanalyse, Sektoranalyse, Umweltanalyse, Investitionsanalyse
+
+• Bonus: Was drücken Inputkoeffizienten aus? Wofür benötigt man die Leontief-Inverse?
+
+Inputkoeffizienten geben an, wie viel Input ein Sektor benötigt, um eine Einheit Output zu produzieren. Sie zeigen die Abhängigkeit eines Sektors von Vorleistungen aus anderen Sektoren. Die Leontief-Inverse wird verwendet, um die Auswirkungen einer Nachfrageänderung auf die gesamte Volkswirtschaft zu berechnen und die indirekten Effekte auf Produktion, Einkommen und Beschäftigung zu analysieren.
+
+• Messgrößen im Güterverkehr und deren Aussagekraft
+
+Mengenmasse:
+Gewicht (z.B. [t])
+Volumen (z.B. [m3 ]) 
+Warenwert (z.B. EUR) 
+Kleinladungsträger (z.B. Gitterboxen, Paletten)
+Lademeter
+Großladungsträger (Container, Wechselbrücken, 20-Fuß Containeräquivalent) 
+Frachtaufträge (Beachte: Subcontracting, Transportketten) 
+Transportlosgröße/Sendungsgröße: Menge von Gütern, die zusammen an einer Quelle abgeholt und gemeinsam an einer Senke abgeliefert werden 
+Fahrten (mit und ohne Ladung)
+Touren (geschlossene Fahrtenketten)
+
+Leistungsmasse:
+tkm(Verkehrsleistung) —> Im Güterverkehr wird die Verkehrsleistung in Tonnenkilometer (tkm) gemessen: die zurückgelegten Kilometer multipliziert mit der beförderten Gütermenge in Tonnen.
+Paletten-km (für einzelbetriebliche Analysen)
+Fahrzeug-km(Fahrleistung)
+
+• Was sind die wichtigsten Gütergruppen nach Leistung bzw. Tonnage? 
+
+-Mineralische Erzeugnisse: Rohstoffe wie Kohle, Öl, Erdgas, Erze und Metalle
+-Chemische Erzeugnisse: Chemische Produkte wie Kunststoffe, Düngemittel, Pestizide, Farbstoffe und Pharmazeutika 
+-Nahrungsmittel und landwirtschaftliche Produkte: Getreide, Fleisch, Milchprodukte, Obst, Gemüse und andere landwirtschaftliche Erzeugnisse. 
+-Maschinen und Ausrüstungen: Maschinen, Werkzeuge, Fahrzeuge und andere Ausrüstungen
+-Elektronik und Kommunikationstechnologie: Computer, Telekommunikationsgeräte, Unterhaltungselektronik, Halbleiter und andere elektronische Komponenten. 
+-Fahrzeuge und Transportmittel: Dies beinhaltet Personenkraftwagen, Lastwagen, Schiffe, Flugzeuge und Schienenfahrzeuge. 
+-Bau- und Baumaterialien: Baustoffe wie Zement, Stahl, Holz, Glas und andere Baumaterialien
+
+Wie sieht ungefähr der Modal Split in Deutschland nach Aufkommen und Leistung aus?
+
+
+
+Der Straßenverkehr dominiert jedoch weiterhin den Modal Split in Deutschland, gefolgt vom Schienenverkehr, während die Anteile der anderen Verkehrsträger vergleichsweise geringer sind.
+
+• Welche Gutarten sind schienen-affin, welche Binnenschiffs-affin, welche Güter werden fast
+ausschließlich mit dem Lkw transportiert?
+
+Schienen-affine Güter:
+-Schüttgüter wie Kohle, Erz, Kies und Sand
+-Massengüter wie Getreide, Zement, Düngemittel und Chemikalien
+-Container für den intermodalen Transport (Kombination von Schiene und Straße)
+
+Binnenschiffs-affine Güter:
+-Schwergewichtige Güter wie Stahl, Eisen und Schrott
+-Flüssiggüter wie Erdöl, Erdgas und Chemikalien
+-Container für den Binnenwasserstraßentransport
+
+Güter, die fast ausschließlich mit dem Lkw transportiert werden:
+-Frischwaren wie Obst, Gemüse und Milchprodukte, die schnell und direkt zu den Verbrauchern gelangen müssen
+-Expresssendungen und Kurierdienste, die eine schnelle Lieferung erfordern
+-Lieferungen an entlegene oder schwer zugängliche Gebiete, in denen der Lkwverkehr die praktischste Option ist
+
+
+
+
+• Zeichnen Sie qualitativ eine typische Entfernungsverteilungskurve (Prozent über Entfernung) für Straßengüterverkehr!
+
+Die Entfernungsverteilungskurve zeigt die prozentuale Verteilung der Transporte über verschiedene Entfernungsintervalle. Auf der horizontalen Achse werden die Entfernungsintervalle dargestellt, während auf der vertikalen Achse der Prozentsatz der Transporte in jedem Intervall angegeben wird.
+
+Entfernungskategorie Prozentsatz des Straßengüterverkehrs
+0-50 km 40%
+50-100 km 30%
+100-200 km 15%
+200-500 km 10%
+500-1000 km 3%
+über 1000 km 2%
+
+• Wie groß ist ungefähr der Anteil von ausländischen Lkw am grenzüberschreitenden Güterverkehr in Deutschland?
+
+In den Jahren 2021 und 2022 ist der Anteil ausländischer LKW auf deutschen Bundesfernstraßen bei ca. 42%.
+
+• Wie groß ist in etwa der Anteil der Ladungsfahrten an den Gesamtfahrten deutscher Lkw?
+Welche Abhängigkeit lässt sich beobachten (wichtige Einflussgröße auf den Leerfahrtenanteil)?
+Wie lässt sie sich erklären?
+
+Basierend auf vorhandenen Daten und Schätzungen lag der Anteil der Ladungsfahrten im Allgemeinen bei etwa 60-70% der Gesamtfahrten deutscher Lkw. Dies bedeutet, dass etwa 30-40% der Fahrten ohne Fracht oder mit nur teilweiser Ladung durchgeführt wurden.
+
+Der Leerfahrtenanteil hängt von mehreren wichtigen Einflussgrößen ab:
+-Nachfrage und Angebot
+-Routenplanung und Logistikoptimierung
+-Rückführungs- und Kooperationsmöglichkeiten
+-Geografische Verteilung der Fracht
+Der Leerfahrtenanteil lässt sich auch durch andere Faktoren wie saisonale Schwankungen, verkehrsbedingte Verzögerungen, logistische Restriktionen oder die Verfügbarkeit von Ladungen beeinflussen.
+
+
+• Wie groß ist etwa der Auslastungsgrad (an der maximalen Nutzlast) deutscher Lkw? Welche Abhängigkeit lässt sich beobachten (wichtige Einflussgröße)? Wie lässt sie sich erklären?
+
+Der durchschnittliche Auslastungsgrad deutscher Lkw ist bei etwa 50% bis 60%.
+
+Manche wichtige Einflussgröße auf den Auslastungsgrad von Lkw:
+-die Nachfrage nach Transportdienstleistungen 
+-der Angebot an Fracht 
+-der Anzahl der verfügbaren Lkw 
+
+Es gibt mehrere Faktoren, die diese Nachfrage beeinflussen können:
+-Wirtschaftliche Bedingungen
+-Branchenspezifische Nachfrage
+-Logistik- und Supply-Chain-Strategien
+-Infrastruktur und Verkehr
+-Umweltauflagen und Regelungen
+
+• Was sind wichtige Datenquellen für den Güterverkehr in Deutschland und Europa?
+
+Statistische Ämter
+Verkehrsverbände und -organisationen
+Verkehrsinfrastrukturbetreiber
+Unternehmensdaten
+Forschungsinstitute und Universitäten
+Telematik- und Überwachungssysteme
+
+Akteure und Netzwerke
+
+• Nennen Sie Aufgaben der Logistik. Was besagt die 7-R Regel der Logistik?
+
+-das richtige Produkt
+-zur richtigen Zeit 
+-am richtigen Ort
+-in der richtigen Menge
+-in der richtigen Qualität 
+-zu den richtigen Kosten
+-zum richtigen Kunden zu bringen
+
+• Nennen Sie Funktionen der Logistik.
+
+Auftrags- und Bestandsverwaltung
+Lagerhaltung und Kommissionierung (Picking) 
+Transport und Umschlag
+Betrieb eines Informationssystems
+
+• Skizzieren Sie beispielhaft folgende Tranportnetzwerke: Einzelwagennetzwerk, KV, Stückgut und Teilladungen.
+
+Einzelwagennetzwerk: bezieht sich auf ein Transportsystem, bei dem einzelne Güterwaggons unabhängig voneinander zwischen verschiedenen Standorten oder Knotenpunkten transportiert werden. Im Gegensatz zu einem Ganzzugverkehrssystem, bei dem mehrere Waggons als zusammenhängende Einheit transportiert werden, werden im Einzelwagennetzwerk die Güter individuell befördert.
+
+KV: Das Ziel des kombinierten Verkehrs ist es, die Vorteile der einzelnen Verkehrsträger entlang der Transportkette zu nutzen. Beispielsweise können für den Transport über lange Strecken die Bahn oder das Schiff genutzt werden, während für die letzte Verteilungsetappe die Straße zum Einsatz kommt.
+
+Stückgut: bezieht sich auf den Transport von Gütern, die in einzelnen Stücken oder Packstücken verpackt sind, im Gegensatz zu Massengut oder Komplettladungen.
+
+
+Teilladungsnetzwerk: Es handelt sich um ein Netzwerk von Spediteuren, Logistikunternehmen und Frachtführern, die ihre Kapazitäten bündeln, um Teilladungen zu transportieren.
+
+        
+        Ad-hoc Strukturen                vs.                   Verbund
+
+• Welche Tourtypen können unterschieden werden?
+
+• Welche besonderen Anforderungen stellen Logistiknetzwerke im Automobilbau und im Handel?
+
+im Automobilbau
+▪ Just in Time – Produktion und Lieferung in Menge und Zeit nach Kundenbedarf 
+                       – Kürzere Durchlaufzeiten und geringere Kapitalbindung 
+                       – ABER: hoher Abstimmungsbedarf entlang der Lieferkette 
+▪ Just in Sequence – Erweiterung von JIT 
+                              – Anlieferung in der richtigen Reihenfolge 
+▪ Anforderung an Logistiknetzwerke 
+▪ Effekt: Ansiedlung von Zulieferunternehmen in unmittelbarer Nähe zum Automobilproduzenten
+ 
+im Handel
+-Hohe Flexibilität und Anpassungsfähigkeit: schnell auf die Veränderungen zu reagieren und Produkte effizient von den Lieferanten zu den Verkaufsstellen zu transportieren.
+-Omnichannel-Vertrieb
+-Retourenmanagement: Im Handel spielen Rücksendungen und Retouren eine große Rolle. 
+
+—-------
+im Automobilbau:
+Just-in-Time (JIT) und Just-in-Sequence (JIS): Die Automobilindustrie erfordert häufig eine präzise Lieferung von Komponenten und Bauteilen an die Montagelinie. JIT- und JIS-Prinzipien bedeuten, dass die Materialien genau zum richtigen Zeitpunkt und in der richtigen Reihenfolge bereitgestellt werden müssen, um die Produktionsabläufe nicht zu unterbrechen.
+Hohe Lieferzuverlässigkeit: Die Automobilherstellung erfordert eine hohe Zuverlässigkeit bei der Lieferung von Materialien und Komponenten. Verspätungen oder Ausfälle können zu erheblichen Produktionsverzögerungen und -kosten führen.
+Komplexes Teilemanagement: Der Automobilbau umfasst eine große Anzahl von Bauteilen und Komponenten, die von verschiedenen Lieferanten stammen. Das Teilemanagement erfordert eine effektive Verfolgung, Überwachung und Koordination der Materialflüsse, um sicherzustellen, dass die richtigen Teile zum richtigen Zeitpunkt am richtigen Ort sind.
+
+im Handel:
+Hohe Lagerbestände und Umschlaggeschwindigkeit: Der Handel erfordert häufig eine große Auswahl an Produkten und eine hohe Verfügbarkeit, um die Kundennachfrage zu erfüllen. Dies kann zu hohen Lagerbeständen führen, die effektiv verwaltet und kontrolliert werden müssen, um Verluste zu minimieren und eine schnelle Umschlaggeschwindigkeit zu gewährleisten.
+Omnichannel-Vertrieb: Im Handel wird zunehmend auf Omnichannel-Strategien gesetzt, bei denen Produkte über verschiedene Vertriebskanäle wie stationäre Geschäfte, Online-Shops und Marktplätze angeboten werden. Dies erfordert ein gut integriertes Logistiknetzwerk, um eine nahtlose Erfüllung der Bestellungen und eine effektive Bestandsverwaltung in allen Kanälen zu gewährleisten.
+Retourenmanagement: Im E-Commerce und im Handel spielt das Retourenmanagement eine wichtige Rolle. Es ist wichtig, einen effizienten Prozess für die Rücknahme, Prüfung, Wiederaufbereitung und Weiterverwendung von zurückgegebenen Produkten zu haben, um Kosten zu minimieren und den Kundenservice zu verbessern.
+Kundenspezifische Verpackung und Etikettierung: Im Einzelhandel können spezielle Anforderungen an die Verpackung und Etikettierung von Produkten bestehen, wie z.B. kundenspezifische Verpackungen, Barcodes oder Sicherheitsetiketten. Die Logistiknetzwerke müssen in der Lage sein, diese Anforderungen zu erfüllen und die Produkte entsprechend zu verpacken und zu kennzeichnen.
+Diese spezifischen Anforderungen erfordern eine enge Zusammenarbeit zwischen Herstellern, Lieferanten, Logistikdienstleistern und Einzelhändlern, um effiziente 
+Logistiknetzwerke
+
+• Erläutern Sie die Begriffe Kontraktlogistik, Just-in-Time und Just-in-Sequence.
+
+Kontraktlogistik
+– Langfristige Übernahme komplexer logistischer Dienstleistungspakete durch Logistik-Dienstleister (Speditionen, Paketdienste) 
+– Kombination mehrerer Dienstleistungen (Transport, Lagerung, Umschlag und Konfektionierung, auch einfache Produktions- oder Montagetätigkeiten)
+– Dienstleister als Systemlieferant für Logistikleistungen (Gabler Wirtschaftslexikon)
+
+Just in Time 
+– Produktion und Lieferung in Menge und Zeit nach Kundenbedarf
+– Kürzere Durchlaufzeiten und geringere Kapitalbindung 
+– ABER: hoher Abstimmungsbedarf entlang der Lieferkette
+
+Just in Sequence 
+ – Erweiterung von JIT
+ – Anlieferung in der richtigen Reihenfolge
+• Benennen Sie wichtige Märkte der Logistik und grenzen Sie diese gegeneinander ab.
+
+Produktion und Handel 
+Logistik
+Transport
+
+▪ Art der Dienstleistung
+ – Transport 
+– Logistik 
+– Kontraktlogistik 
+▪ Nachfrageseitig (Substitutionsbeziehungen)
+▪ Angebotsseitig (Technologie) 
+▪ Besonderheit im Verkehr: Räumliche Dimension 
+– Gebiete 
+– Relationen
+
+Märkte der Logistik: Massengut, Kontrakt, Terminal & Warehousing, KEP (Kurier-Express-Paket)
+
+Treiber und Trends
+• Grundzüge und Aussagen der wichtigen Handelsmodelle: Ricardo, Krugman/Core-Periphery,
+Economies-of-Scale.
+
+Ricardo: 
+-Komparativen Kostenvorteil. 
+-Die Grundannahme ist die Existenz unterschiedlicher Arbeitsproduktivitäten und daraus resultierender unterschiedlicher Opportunitätskosten. 
+
+Core-Periphery Modell (Paul Krugman): 
+-Kapital und Arbeitskräfte sind mobil.
+-Die regionale Wirtschaftsleistung steigt überproportional zu den Inputs (economies of scale). 
+  
+Economies of scale:
+-Bestimmte Regionen werden immer stärker.
+-Andere Regionen erleiden einen Backwash-Effekt und werden auf Rohstoff-Produktion reduziert
+
+• Was drücken Indifferenz- und Transformationskurven aus?
+
+Indifferenzkurven drücken die Konsumpräferenzen eines Verbrauchers aus, indem sie alle Güterkombinationen darstellen, die ihm den gleichen Nutzen oder die gleiche Zufriedenheit bieten. Sie zeigen die Kompromisse auf, die ein Verbraucher bereit ist einzugehen, um zwischen verschiedenen Gütern zu wählen.
+
+Transformationskurven repräsentieren die Produktionsmöglichkeiten einer Volkswirtschaft, d.h. die verschiedenen Produktionskombinationen von zwei Gütern, die mit den gegebenen Ressourcen und der vorhandenen Technologie erreicht werden können.
+
+
+
+
+• Welche Vorteile bringen Verbesserungen im Gütertransport für Unternehmen und Staaten?
+
+Vorteile für Unternehmen:
+-Effizienzsteigerung: kürzeren Lieferzeiten, schnelleren Reaktionszeiten auf Kundenanfragen
+-Kostenreduktion: Reduzierung der Transportkosten, optimierte Routenplanung, bessere -Auslastung von Transportmitteln
+-Erweiterter Marktzugang: neue Märkte erreichen, neue Absatzmöglichkeiten und Chancen
+-Höhere Kundenzufriedenheit: Schnellere Lieferzeiten und zuverlässige Transportdienstleistungen, Stärkung von Kundenbindung
+
+Vorteile für Staaten:
+-Wirtschaftswachstum: neue Arbeitsplätze, Steigerung von BIP
+-Stärkung von Wettbewerbsfähigkeit
+-Bessere regionale Entwicklung
+-Bessere entwickelte Infrastruktur und Logistikdienstleistungen
+
+• Was versteht man unter Globalisierung und welche Folgen hatte sie für den interkontinentalen
+und nationalen Güterverkehr?
+
+Globalisierung = Internationale Integration von Wirtschaft und Politik.
+Folgen: Fragmentierung der Wertschöpfungsketten 
+s•  Standardisierte Produktionsprozesse 
+• Fragmentierung der Wertschöpfungsketten 
+• Kostenreduktion durch Outsourcing
+Aktuell: Risiken, Kapitalverlust, Abhängigkeit von Ausland, Depolarisation
+
+• Welche weiteren Trends – neben der Gobalisierung – hatten in den letzten Jahrzehnten
+Auswirkungen auf den Güterverkehr?
+
+- Technischer Fortschritt: Durch technischen Fortschritt kann entweder eine gleiche Produktionsmenge (Output) mit einem geringeren Einsatz an Arbeit oder Produktionsmitteln (Inputs) oder eine höhere Menge mit dem gleichen Einsatz an Produktionsmitteln und Arbeit erstellt werden.
+
+- Strukturwandel der Wirtschaft: Die Veränderungen der Primärer-, Sekundärer- und Tertiärer-Sektor-Anteil an der Bruttowertschöpfung
+
+• Erläutern Sie die Gründe für Outsourcing in der Industrie und die Folgen für den Güterverkehr.
+
+Günstigere Lohnkosten (z.B. Ungarn, Polen, China, Arbeitsvertrag Logistik…) 
+Konzentration auf Kernkompetenzen 
+Akkumulation von Kompetenzen 
+Realisierung von Skalen- und Verbundvorteilen bei Lieferanten (Bsp. Bosch) 
+Ersatz vom Kapitalkosten durch variable Faktorkosten
+Gewinn an Flexibilität
+Erhöhung der (Eigen-)Kapitalrendite
+Flexible Nachschübe (räumlich, zeitlich, Mengen) statt Lagerhaltung  
+Schnittstellen und Digitalisierung 
+
+Ek bilgi: Offshoring“ bezeichnet die Verlagerung von Aufgaben des Unternehmens ins Ausland. Es handelt sich also um eine geographische Verlagerung, während Outsourcing die organisatorische Verlagerung betrifft.
+
+
+• Welche Auswirkungen haben Transportverbesserungen (z.B. Bau von Infrastruktur) auf Logistikund Produktionsstrukturen sowie dann auf den Güterverkehr?
+
+Verbesserung der Lieferzeiten
+Senkung der Transportkosten
+Verbesserung der Zuverlässigkeit
+Erweiterung des Marktzugangs
+Standortvorteile: Transportverbesserungen können die Attraktivität bestimmter Standorte erhöhen. 
+Förderung des Handels: Produkte über große Entfernungen zu transportieren und auf internationale Lieferketten zugreifen.
+
+
+
+
